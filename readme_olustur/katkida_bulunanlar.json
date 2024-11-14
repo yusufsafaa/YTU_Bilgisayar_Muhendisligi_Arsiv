@@ -296,6 +296,20 @@
             "katkida_bulunma_orani": "Çok Az"
         },
         {
+            "ad": "Osman Yiğit Küçükkıratlı",
+            "iletisim_bilgileri": [
+                {
+                    "baslik": "Github Profili",
+                    "link": "https://github.com/yigitkiratli"
+                },
+                {
+                    "baslik": "LinkedIn Profili",
+                    "link": "https://www.linkedin.com/in/yigitkucukkiratli/"
+                }
+            ],
+            "katkida_bulunma_orani": "Az"
+        },
+        {
             "ad": "Önder Görmez",
             "iletisim_bilgileri": [
                 {
@@ -442,18 +456,9 @@
             "katkida_bulunma_orani": "Çok Az"
         },
         {
-            "ad": "Osman Yiğit Küçükkıratlı",
-            "iletisim_bilgileri": [
-                {
-                    "baslik": "Github Profili",
-                    "link": "https://github.com/yigitkiratli"
-                },
-                {
-                    "baslik": "LinkedIn Profili",
-                    "link": "https://www.linkedin.com/in/yigitkucukkiratli/"
-                }
-            ],
-            "katkida_bulunma_orani": "Az"
+            "ad": "Burak Başol",
+            "iletisim_bilgileri": [],
+            "katkida_bulunma_orani": "Çok Az"
         }
     ],
     "bolum_adi": "Katkıda Bulunanlar",
